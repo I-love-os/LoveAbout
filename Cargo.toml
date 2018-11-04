@@ -1,0 +1,11 @@
+[package]
+name = "love_about"
+version = "0.1.0"
+authors = [
+"Jakub Tomana <jakub.tomana@protonmail.com>",
+# Add yourself here,
+]
+
+[dependencies]
+gtk = "0.5.0"
+gio = "0.5.1"
